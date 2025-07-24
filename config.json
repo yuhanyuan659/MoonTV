@@ -10,6 +10,10 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+     "lzig": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "影视工厂"
+    },
     "fant": {
       "api": "https://www.fantuan.tv/api.php/provide/vod",
       "name": "饭团影视"
