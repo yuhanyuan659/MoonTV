@@ -9,7 +9,6 @@
      "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
-       "detail": "https://cj.rycjapi.com"
     },
     "qiqi": {
       "api": "https://www.qiqidys.com/api.php/provide/vod",
