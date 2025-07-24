@@ -88,6 +88,7 @@
     "hhzy": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
+      "detail": "https://hhzyapi.com"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
